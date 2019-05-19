@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>qunit</artifactId>
-    <version>2.9.2</version>
+    <version>2.9.3-SNAPSHOT</version>
     <name>QUnit</name>
     <description>WebJar for QUnit - A JavaScript Unit Testing framework</description>
     <url>http://webjars.org</url>
@@ -35,7 +35,7 @@
         <url>http://github.com/webjars/qunit</url>
         <connection>scm:git:https://github.com/webjars/qunit.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/qunit.git</developerConnection>
-        <tag>qunit-2.9.2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
